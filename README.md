@@ -1,3 +1,15 @@
+This project is being used to create a React application as a Portfolio website for myself.
+Using this React application, I can present it as an alternative CV/Resume, an area to present projects and experience I have completed as well as technological areas which I have interest in. 
+I will also be using it as a way to share links and news articles which can demonstrate my interests. 
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
